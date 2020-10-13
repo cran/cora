@@ -1,0 +1,10 @@
+a19923dfa09692fdc91fe15085f79f9d *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+5c24428ca4428086e65a7d911448e2f6 *R/cora.R
+edae17677912bede9d008bbe497ae0c6 *README.md
+09c58ed3c84255f3287727f3ceca7071 *data/cora.RData
+795f1ba29b982113ea8203809ead8567 *data/cora_gold.RData
+6555be2dd97d978ff46778020598ef32 *data/cora_gold_update.RData
+939ddacb3210333b87d85b179004e4c4 *man/cora.Rd
+d5d9e20feb806342949d4861db4de17d *man/cora_gold.Rd
+56ff3f28751fde8d182c3c2d76f8bd02 *man/cora_gold_update.Rd
